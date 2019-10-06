@@ -1,0 +1,5 @@
+1.	Can throw water in various direction.
+2.	Detect fire and inform authority over GSM.
+3.	Automatic off the power of that place.
+4.	Detect human existence during accident.
+5.	Give voice command so that public can take right decision during incident

@@ -1,0 +1,11 @@
+We try here to do some unique thing in IOT based fire fighter robot with focus for public help to save from fire, we try to do our best for this project but without Allah nobody is have full perfections and all of device and sensor have not efficacy of 100%. So, we have some lacking like as 
+
+1.	Speaker voice is not normalized or clear sound because of Arduino output audio signal is not clear
+2.	Servo motor is working slow & sometime it shaking or vrbaite by it self
+3.	Motor driver run on 12v so the robot wheel performs very fast
+4.	Sometime PIR sensor detect motion without any human movement
+5.	Integrated voltage divider of Arduino getting very hot &
+6.	Sometime sensor is not working properly for loose connection
+
+we intergraded here PIR sensor, Speaker & Relay for detect human motion, Voice command for people patience & power off this place in one Arduino module. 
+Another Arduino model we integrated their Motor driver, Fire detector (Flame sensor), Servo motor & water pump for robot wheel to run any ware, detect fire in 180-degree angle, water through position & water through

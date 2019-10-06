@@ -1,0 +1,4 @@
+1.	Can throw water in various direction.
+2.	Automatic off the power of that place.
+3.	Detect human existence during accident.
+4.	Give voice command so that public can take right decision during incident

@@ -1,0 +1,9 @@
+1.	Arduino
+2.	Temperature Sensor
+3.	PIR Sensor.
+4.	Relay
+5.	Speaker 
+6.	Sd Card Module
+7.	Human detect IR Sensor.
+8.	Breadboard
+9.	Jumping Wire

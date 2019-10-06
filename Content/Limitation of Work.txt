@@ -1,0 +1,4 @@
+•	IOT Based Fire Department Alerting System only works for fire detection
+•	They only flow the water
+•	There is no way to detect human in incident
+•	During incident there is no way to guide the victims.

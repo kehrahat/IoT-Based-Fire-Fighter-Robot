@@ -1,0 +1,1 @@
+DC 6V 2-wheel Robot Smart Car Chassis with Speed Encoder for Arduino. The mechanical structure is very simple and easy to install. An excellent platform for Line Following robots and Maze Solving Robots. The chassis has enough room for all the necessary electronics. This robot chassis together with Arduino UNO R3 makes an ideal DIY project Kit.
